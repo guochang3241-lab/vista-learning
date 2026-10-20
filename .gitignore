@@ -1,0 +1,10 @@
+# 本地真实学习记录不进入展示仓库
+/private/
+/sessions/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
